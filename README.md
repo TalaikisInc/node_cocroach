@@ -3,6 +3,8 @@
 ## TODO
 
 * user cocroach does not have SELECT privilege on relation posts
+* ssl problems under Windows
+* Autodeployment
 
 ## Install / Prepare
 
